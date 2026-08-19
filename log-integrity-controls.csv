@@ -1,0 +1,7 @@
+Control,Implementation
+Log immutability,Logs written to append-only storage; modification requires CISO-level approval and creates audit entry
+Encryption at rest,AES-256 encryption for all stored logs
+Access controls,"Role-based access: AGPO, DPO, Legal, and Information Security have read access; only automated processes have write access"
+Log tampering detection,"Hash-chaining on critical log entries (model output, reviewer decision)"
+Backup,Daily backup to geographically separate EU region
+Regulatory access,Logs are producible for regulatory inspection within 24 hours of formal request

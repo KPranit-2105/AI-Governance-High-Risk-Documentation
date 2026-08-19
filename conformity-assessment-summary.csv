@@ -1,0 +1,9 @@
+EU AI Act Article,Article Requirement,Compliance Status,Verification Artefact / Document Link
+**Article 9**,Risk Management System,**COMPLIANT**,`02-risk-management-summary.md`
+**Article 10**,Data and Data Governance,**COMPLIANT**,`03-data-governance.md`
+**Article 11 & Annex IV**,Technical Documentation,**COMPLIANT**,Technical Documentation Pack Docs 01–07
+**Article 12**,Record-Keeping (Logging),**COMPLIANT**,`05-logging-traceability.md`
+**Article 13**,Transparency & User Info,**COMPLIANT**,`01-intended-purpose.md` (Explanation Module)
+**Article 14**,Human Oversight,**COMPLIANT**,`04-human-oversight.md`
+**Article 15**,"Accuracy, Robustness, Cybersecurity",**COMPLIANT**,`06-performance-monitoring.md`
+**Article 17**,Post-Market Monitoring Plan,**COMPLIANT**,`06-performance-monitoring.md`

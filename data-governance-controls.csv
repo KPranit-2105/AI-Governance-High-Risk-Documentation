@@ -1,0 +1,6 @@
+Control,Owner,Mechanism
+Data processing agreement with HireFlow,Legal,Executed — includes EU AI Act Article 28 deployer obligations
+Candidate-facing AI disclosure,Legal + Product,Application portal notice — reviewed and approved
+Special category data filter,HireFlow (provider),Technical control in v3.1
+Data retention enforcement,IT / DPO,Automated deletion at 12/36 month thresholds
+Annual data governance review,DPO + AGPO,Included in annual system review cycle

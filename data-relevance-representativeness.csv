@@ -1,0 +1,6 @@
+Criterion,Assessment
+**Relevance**,Dataset consists of real CV–job description pairs. Relevant to the task of CV-to-job matching. ✓
+**Representativeness**,"Dataset covers EU geographies with weighting. Underrepresentation risk exists for Eastern European candidates and non-EU educational backgrounds. Documented limitation (see Document 1, Section 5)."
+**Completeness**,Dataset is large (4.2M pairs). Completeness assessed as adequate for the task.
+**Freedom from errors**,"Automated quality filtering applied (deduplication, format normalisation, personally identifiable information removal). Manual spot-checking of 2% of records performed."
+**Statistical properties**,Dataset statistics documented by HireFlow in technical documentation annex. Gender distribution: 51% male-presenting / 44% female-presenting / 5% not determinable. Age: median applicant age 31; range 18–72.

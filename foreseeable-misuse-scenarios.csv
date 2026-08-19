@@ -1,0 +1,5 @@
+Scenario,Risk,Mitigation
+HR coordinator accepts all AI recommendations without review,Autonomous AI decision-making,"Training, UI friction, override rate monitoring"
+System used to screen internal transfer candidates,Out-of-scope use,"Access controls, policy, scope attestation"
+Manager requests score for a specific candidate before CV submission,Gaming / bias,System does not accept individual queries outside standard batch process
+Candidate submits CV crafted to game the AI (adversarial CV),Model gaming,Low risk given human review; adversarial input testing planned

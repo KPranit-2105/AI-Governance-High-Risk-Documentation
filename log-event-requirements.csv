@@ -1,0 +1,9 @@
+Event Category,Specific Events,Rationale
+**System inputs**,Job description submitted; CV ingested; candidate ID; submission timestamp,Enables reconstruction of what data the model processed
+**Model outputs**,Fit score per candidate; ranking; explanation text generated; model version; inference timestamp,Enables review of what the AI recommended and why
+**Reviewer actions**,Review initiated; reviewer ID; shortlist confirmed or modified; modification details; decision timestamp; time spent on review,Creates accountability record and enables oversight effectiveness monitoring
+**Candidate communications**,Communication type (invitation/rejection); sent timestamp; communication ID,Links AI recommendation chain to actual decision communicated to candidate
+**Overrides**,Override initiated; reason text; new shortlist; reviewer ID,Key evidence for fairness investigation and oversight quality monitoring
+**Model version**,Version number at time of each inference,Enables correlation of issues to specific model versions
+**System exceptions**,Special category data flag triggered; low-confidence flag triggered; system errors,Enables investigation of anomalous cases
+**Access and authentication**,User login/logout; role; session duration,Standard access audit trail

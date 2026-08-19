@@ -1,0 +1,7 @@
+Log Review Activity,Frequency,Owner
+Override rate monitoring,Monthly,HR Director
+Review time analysis (oversight effectiveness),Monthly,AGPO
+Score distribution analysis by job type,Quarterly,AGPO + ML Engineering
+Demographic parity analysis (where proxy data available),Quarterly,AGPO
+Access audit review,Quarterly,Information Security
+Full log audit,Annual,Internal Audit

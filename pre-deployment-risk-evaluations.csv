@@ -1,0 +1,7 @@
+Evaluation,Owner,Standard,Status
+Vendor bias audit (EU protected characteristics),HireFlow Technologies Ltd,"Demographic parity across gender, age, ethnicity proxies",Completed — results reviewed ✓
+NorthStar independent fairness validation,AGPO + external evaluator,Demographic parity ≤ 0.8 disparate impact ratio,In progress
+Data protection impact assessment,DPO,GDPR Article 35,Completed ✓
+Technical documentation review,AGPO + Legal,Annex IV completeness,In progress
+Penetration and adversarial testing,Information Security,Adversarial input testing protocol,Scheduled — April 2026
+User acceptance testing with oversight training,HR Director + AGPO,100% of system users trained and UAT complete,Scheduled — May 2026

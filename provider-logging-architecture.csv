@@ -1,0 +1,4 @@
+Log Type,Retention,Location,Access
+"API request logs (input hash, timestamp, model version)",36 months,HireFlow secure infrastructure (EU region),Available to NorthStar on request; regulatory access within 72h
+"Model output logs (score, explanation, timestamp)",36 months,HireFlow secure infrastructure,Available to NorthStar on request
+Model version history,Indefinite,HireFlow system records,Available on request

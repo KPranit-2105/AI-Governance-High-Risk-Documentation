@@ -1,0 +1,5 @@
+Metric,Definition,Target,Review Frequency,Alert Threshold
+**Shortlist acceptance rate**,% of AI-generated shortlists accepted by HR coordinators without modification,Baseline to be established in first 3 months of production,Monthly,>20% change from 3-month baseline
+**Interview conversion rate**,% of AI-shortlisted candidates (including those not overridden) who progress to interview,Baseline to be established,Quarterly,>15% below baseline
+**Explanation usefulness score**,HR coordinator self-reported rating of explanation text quality (1–5 scale),≥3.5 average,Quarterly,<3.0 for two consecutive quarters
+**Special category data flag rate**,% of CVs triggering the special category data filter,Informational,Monthly,>10% (may indicate candidate population change)

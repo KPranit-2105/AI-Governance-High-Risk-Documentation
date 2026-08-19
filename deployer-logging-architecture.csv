@@ -1,0 +1,6 @@
+Log Type,Retention,Location
+Full application audit trail (all events above),36 months,NorthStar secure infrastructure (EU)
+Reviewer action log,36 months,NorthStar HR systems
+Candidate communication record,36 months,NorthStar HR systems
+Override log,36 months,NorthStar HR systems
+Model output copy (for each inference used),36 months,NorthStar data warehouse

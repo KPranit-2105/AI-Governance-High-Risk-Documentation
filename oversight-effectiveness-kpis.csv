@@ -1,0 +1,6 @@
+Metric,Measurement Method,Frequency,Threshold for Investigation
+Override rate (shortlist modifications),System logs,Monthly,<5% triggers review (potential nominal oversight)
+Time spent on review (average per application),System logs,Monthly,<30 seconds per candidate triggers training review
+Candidate challenge rate,HR records,Quarterly,>1% of rejections triggers fairness review
+Training completion rate,LMS records,Ongoing,<100% triggers access suspension for non-compliant users
+Coordinator confidence score (self-reported in review),Survey module,Quarterly,—

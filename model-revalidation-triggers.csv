@@ -1,0 +1,7 @@
+Trigger,Rationale
+Demographic parity ratio drops below 0.80 for any measurable group,Potential emerging discriminatory pattern
+Interview conversion rate declines >15% from baseline for two consecutive quarters,Model may no longer be matching candidates effectively to roles
+"NorthStar's candidate population changes significantly (e.g., entry into new geographies, new role types)",Model trained on existing patterns may not generalise
+HireFlow releases a new model version,Material change requires NorthStar validation before acceptance
+AI incident involving HireAssist Pro,Post-incident revalidation standard
+24 months since last full revalidation (if no other trigger),Scheduled revalidation cycle

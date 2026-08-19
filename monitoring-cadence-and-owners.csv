@@ -1,0 +1,7 @@
+Activity,Frequency,Owner,Output
+Automated metric dashboard refresh,Daily,IT / AGPO (automated),Dashboard — accessible to HR Director and AGPO
+Override rate review,Monthly,HR Director,Escalation to AGPO if threshold triggered
+Full performance report,Quarterly,AGPO,Report to AI Governance Committee
+Fairness analysis,Quarterly,AGPO + ML Engineering,Included in quarterly report
+Annual system review,Annual,AGPO,Full system review — feeds renewal decision
+Vendor model performance report,Quarterly (from HireFlow),Head of Credit Risk (as contract contact),Reviewed by AGPO; escalate material changes

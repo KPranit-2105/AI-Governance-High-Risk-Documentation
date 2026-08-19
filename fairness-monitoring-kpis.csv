@@ -1,0 +1,5 @@
+Metric,Definition,Target,Review Frequency,Alert Threshold
+**Demographic parity ratio**,Ratio of shortlisting rate for protected group / shortlisting rate for reference group,≥0.80 (for each measurable proxy group),Quarterly,<0.80 or declining trend over two quarters
+**Score distribution by proxy group**,"Mean and standard deviation of AI scores by gender proxy, age band, name-inferred ethnicity proxy",No statistically significant difference between groups,Quarterly,p<0.05 significance in mean difference
+**Override rate by candidate group**,Whether HR coordinators override AI recommendations at different rates for different candidate groups,No systematic pattern,Quarterly,Statistically significant difference
+**Rejection rate by application source**,Whether candidates from specific recruitment channels are rejected at higher rates,No unexplained variation,Quarterly,>15% variation unexplained by role-specific factors

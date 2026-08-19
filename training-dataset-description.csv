@@ -1,0 +1,7 @@
+Parameter,Detail
+Dataset name,HireFlow Recruitment Corpus v3
+Size,4.2 million CV–job description pairs
+Geographic coverage,"EU-27 (weighted towards Germany, Netherlands, France, Poland)"
+Time range,2015–2024
+Languages,"English, German, Dutch, French"
+Source,Aggregated from HireFlow enterprise customers (anonymised) + public job posting datasets

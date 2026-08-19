@@ -1,0 +1,7 @@
+Feature,Purpose
+Explanation text per candidate,Enables reviewers to understand why the AI ranked a candidate as it did
+Full candidate display,"All candidates are shown, not just those above a threshold — reviewers can consider candidates the AI ranked low"
+Active confirmation required,"System requires the reviewer to click ""Confirm shortlist"" — no passive acceptance"
+Override logging,All modifications to AI recommendations are automatically logged with timestamp and user ID
+Confidence indicators,"Where the AI's confidence in a score is low (high model uncertainty), this is flagged to the reviewer"
+Override rate dashboard,"HR Director can view override rates by coordinator, role type, and time period"

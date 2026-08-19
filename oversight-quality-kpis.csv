@@ -1,0 +1,5 @@
+Metric,Definition,Target,Review Frequency,Alert Threshold
+**Override rate**,% of AI shortlists modified by HR coordinator,Target: 10–40% (meaningful oversight range),Monthly,<5% (possible nominal oversight) or >80% (possible model failure)
+**Review time (median)**,Median time spent by coordinator reviewing each candidate on shortlist,≥45 seconds per candidate,Monthly,<30 seconds (insufficient review time)
+**Challenge rate**,% of rejection decisions challenged by candidates,Informational,Quarterly,>2% (indicates potential systemic issue)
+**Training currency**,% of active system users with current training certification,100%,Monthly,<100% triggers access suspension for non-compliant users

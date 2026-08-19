@@ -1,0 +1,3 @@
+Limitation,Mitigation
+Demographic data availability,"Candidates are not required to disclose protected characteristics. Demographic parity analysis relies on proxy indicators, which are imperfect.",Monitoring is conducted on available data; limitations are documented in each monitoring report.
+"Provider log access is request-based, not real-time","For real-time incident investigation, NorthStar relies on its own logs. Provider logs provide deeper model-layer detail but require a request process.",Incident response procedure accounts for this; provider logs are requested within 24h of a severity 1 incident.
